@@ -5,7 +5,7 @@
 
     <groupId>org.reactome.server.tools</groupId>
     <artifactId>reaction-exporter</artifactId>
-    <version>9.40.0</version>
+    <version>9.41.0</version>
     <packaging>jar</packaging>
 
     <name>reaction-exporter</name>
